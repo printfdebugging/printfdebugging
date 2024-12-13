@@ -7,3 +7,4 @@
 #### Interesting Works
 - [Dotfiles - Know your system and tools](https://github.com/printfdebugging/dotfiles)
 - [TimePast - Firefox extension for analyzing/summarizing google calendar events](https://github.com/printfdebugging/timepast)
+- [Graphics Programming - Every frame counts!](https://github.com/printfdebugging/graphics)
