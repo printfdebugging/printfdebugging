@@ -5,5 +5,5 @@
 [contributor]: https://gerrit.libreoffice.org/q/owner:sahil.gautam.extern@allotropia.de
 
 #### Interesting Works
-- [Dotfiles - Know Your System and Tools](https://github.com/printfdebugging/dotfiles)
+- [Dotfiles - Know your system and tools](https://github.com/printfdebugging/dotfiles)
 - [TimePast - Firefox extension for analyzing/summarizing google calendar events](https://github.com/printfdebugging/timepast)
