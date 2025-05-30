@@ -21,7 +21,7 @@
 - Build a **mental model** of the problem before approaching the solutions, and rapidly prototype and fail fast.
 - **Embrace simplicity**. A long simple solution is much better than a short tricky one (exceptions exist!).
 - **Read a lot** of code, **write a lot** of code and push atleast **one patch** a day.
-- Review other's patches!!
+- Review other's patches and always ask others to review your patches, more eyes produce better code.
 
 > Avoid shortcuts and learn to read the docs and manpages, sit down for long,
 > uninterrupted hours working towards the goals which you chose for the day, 
