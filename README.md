@@ -38,6 +38,11 @@
 - **Don't force smile** and don't take **otheres not smiling as disinterest**.
 - **It's fine to leave a conversation** politely, if you don't feel like being there.
 
+> Enjoy these moments in life because you would be dead by the end of next
+> 60-70-80 years, buried in the soil or burnt to ashes depending on the which
+> comics you believe in... and with you will be gone your shallow thoughts,
+> incorrect opinions and the boring instagram account.
+
 ## Dailylife guidelines I follow
 
 - Sleep at 10pm for 7 hours after a good day's work. Have a **nice alarm ringtone**.
