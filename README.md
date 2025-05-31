@@ -25,7 +25,9 @@
 
 > Avoid shortcuts and learn to read the docs and manpages, sit down for long,
 > uninterrupted hours working towards the goals which you chose for the day, 
-> and be a team player and ask for help whenever needed.
+> and be a team player and ask for help whenever needed. Remember "all the
+> glitters is not gold", also "most of the gold is in deep mines" so "dig
+> deeper".
 
 ## Conversation guidelines I follow
 
@@ -52,3 +54,9 @@
 - Learn to get **excited** when things get hard, because doing hard things makes a difference.
 - Don't do what **90%** is doing, be it **social-media**, **vibe-coding**, **video-consumption**.
 - **Exercise daily**, know that **food is not entertainment** and **entertainment is not a neccessity**.
+
+> We want to be happy yet in our thoughts, we are always fighting something or
+> the other mostly imaginary, what an irony. knowing that most thoughts are
+> just a projection of our perception of reality, we can just laugh over them
+> and not be affected by them. when pressure starts to build up, don't react,
+> rather act opposite to the natural reaction.
