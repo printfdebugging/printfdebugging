@@ -56,7 +56,7 @@
 - **Exercise daily**, know that **food is not entertainment** and **entertainment is not a neccessity**.
 
 > We want to be happy yet in our thoughts, we are always fighting something or
-> the other mostly imaginary, what an irony. knowing that most thoughts are
+> the other mostly imaginary, what an irony. Knowing that most thoughts are
 > just a projection of our perception of reality, we can just laugh over them
 > and not be affected by them. when pressure starts to build up, don't react,
 > rather act opposite to the natural reaction.
