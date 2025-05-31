@@ -54,6 +54,7 @@
 - Learn to get **excited** when things get hard, because doing hard things makes a difference.
 - Don't do what **90%** is doing, be it **social-media**, **vibe-coding**, **video-consumption**.
 - **Exercise daily**, know that **food is not entertainment** and **entertainment is not a neccessity**.
+- Be **diligent**, "how you do anything is how you do everything".
 
 > We want to be happy yet in our thoughts, we are always fighting something or
 > the other mostly imaginary, what an irony. Knowing that most thoughts are
