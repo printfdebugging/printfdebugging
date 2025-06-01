@@ -39,6 +39,7 @@
 - **Pass around the baton** to involve everyone around, don't just keep talking on your own, **don't interrupt**.
 - **Don't force smile** and don't take **otheres not smiling as disinterest**.
 - **It's fine to leave a conversation** politely, if you don't feel like being there.
+- Conversations have a **context**, respect that. Some contexts are **private**, make sure to keep that **deep inside the belly**.
 
 > Enjoy these moments in life because you would be dead by the end of next
 > 60-70-80 years, buried in the soil or burnt to ashes depending on the which
