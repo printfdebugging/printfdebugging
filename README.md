@@ -12,9 +12,3 @@
 [Github]: https://github.com/printfdebugging
 [GMail]: mailto:printfdebugging@gmail.com
 [Blog]: https://printfdebugging.github.io/blog/
-
-<iframe src="https://printfdebugging.github.io/blog/"
-height=250px;
-width=100%;
->
-</iframe>
